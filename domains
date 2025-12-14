@@ -1,0 +1,37 @@
+# https://about.ipfs.io
+ipfs.dweb.link
+ipfs.io # supports subdomains and paths (e.g. https://ipfs.io/ipfs/{cid})
+
+# https://storacha.network
+ipfs.w3s.link
+storacha.link
+
+# https://infura.io/product/ipfs
+infura-ipfs.io
+
+# https://about.orbitor.dev
+apac.orbitor.dev
+eu.orbitor.dev
+ipfs.orbitor.dev
+latam.orbitor.dev
+
+# https://www.4everland.org/ipfs
+ipfs.4everland.io
+
+# https://storry.tv
+ipfs.storry.tv
+
+# https://dget.top
+ipfs.dget.top
+
+# https://nft.storage
+nftstorage.link
+
+# trustless-gateway.link
+trustless-gateway.link
+
+# https://pinata.cloud
+gateway.pinata.cloud
+
+# https://ipfs.ecolatam.com
+ipfs.ecolatam.com
